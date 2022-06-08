@@ -6,7 +6,7 @@ from pyqrcode import QRCode
 
 # String which represent the QR code 
 
-s = "https://www.youtube.com/channel/UCeO9hPCfRzqb2yTuAn713Mg"
+s = "https://youtube.com/channel/UC1rmAY_kabt5DlZX05PSNqQ"
 
   
 
